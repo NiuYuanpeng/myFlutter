@@ -25,8 +25,7 @@ Android组件化项目初始化工具ApplicationInit链接(gradle-plugin+注解A
 [演示app下载地址](https://www.pgyer.com/gJjTehFC)
 
 ## 项目演示图片
-![首页截图]<img src="https://github.com/NiuYuanpeng/myFlutter/tree/main/assets/snapshots/home.png" width="210px">
-
+![assets/snapshots/home.png](assets/snapshots/home.png)
 首页
 ![assets/snapshots/hotkey.png](assets/snapshots/hotkey.png)
 热词

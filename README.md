@@ -23,9 +23,15 @@ Android组件化项目初始化工具ApplicationInit链接(gradle-plugin+注解A
 
 ## 项目演示图片
 ![assets/snapshots/home.png](assets/snapshots/home.png)
+首页
 ![https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/home.png](https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/home.png)
+首页
 ![https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/hotkey.png](https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/hotkey.png)
+热词
 ![https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/knowledge.png](https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/knowledge.png)
+体系
 ![https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/me.png](https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/me.png)
+我的
 ![https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/mycollect.png](https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/mycollect.png)
+我的收藏
 

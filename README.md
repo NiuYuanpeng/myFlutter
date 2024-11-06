@@ -40,5 +40,6 @@ Android组件化项目初始化工具ApplicationInit链接(gradle-plugin+注解A
 
 我的收藏
 
+![img]
 <img src="https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/home.png" width="210px">
 

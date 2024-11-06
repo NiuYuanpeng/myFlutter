@@ -22,6 +22,10 @@ Android组件化项目ReadingGallery链接(jetpack+kotlin+koin+couroutine)：htt
 Android组件化项目初始化工具ApplicationInit链接(gradle-plugin+注解APT+ASM)：https://github.com/WinWang/ApplicationInit
 
 ## 项目演示图片
-![assets/snapshots/home.png]
+![assets/snapshots/home.png](assets/snapshots/home.png)
+![https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/home.png](https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/home.png)
 ![https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/hotkey.png](https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/hotkey.png)
+![https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/knowledge.png](https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/knowledge.png)
+![https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/me.png](https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/me.png)
+![https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/mycollect.png](https://github.com/NiuYuanpeng/myFlutter/blob/main/assets/snapshots/mycollect.png)
 
